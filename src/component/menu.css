@@ -1,0 +1,12 @@
+.menu {
+  display: flex;
+  justify-content: flex-end;
+  font-weight: bold;
+  align-items: center;
+  align-content: center;
+  padding: 1rem;
+  margin-top: 1rem;
+}
+#simple-menu {
+  padding: 50;
+}
